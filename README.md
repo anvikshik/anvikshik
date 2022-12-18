@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working as Fullstack Developer and learning machine-learning and deep-diving into Data Science.
+- 🔭 I’m Fullstack Developer, Game Developer and now learning machine-learning and deep-diving into Data Science.
 - 👯 I’m looking for opportunities to work in Fullstack and Data Science. If you like my profile, feel free to get in touch with me!
 - 🔭 I’m currently working on Node.js, JavaScript, React and Python, Numpy, Pandas.
 - 🥅 2023 Goals: \
