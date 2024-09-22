@@ -1,14 +1,12 @@
 # Hi, I'm Anvikshik! 👋
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://anvikshik.github.io/anvikshik/)
 
-- 🔭 I’m Fullstack Developer(Node.js/React) and now learning Web3, ML/AI and deep-diving into Data Science.
-- 👯 I’m looking for opportunities to work in Fullstack and Data Science. If you like my profile, feel free to get in touch with me!
-- 🔭 I’m currently working on Node.js, JavaScript, React and Julia, Python, Numpy, Pandas.
-- 🥅 2023 Goals: \
+- 🔭 I’m Fullstack Developer.
+- 👯 I’m looking for opportunities to work in Fullstack. If you like my profile, feel free to get in touch with me!
+- 🔭 I’m currently working on Node.js, JavaScript, ReactJS, NextJS and Julia, Python, Numpy, Pandas.
+- 🥅 2024 Goals: \
        - Contribute more to Open Source projects;\
       - Learn Julia and get into Machine Learning and Deep Learning;\
-      - Learn Web3 Technology;\
-      - Build a habit of blogging;
 - 🚀 Hobbies: Music, Reading Books, Astronomy: Knowning more about Universe and Playing video games.
 
 📫 How to reach me: I'm most active on Linkedin, you can reach me there or feel free to connect on email as well!
